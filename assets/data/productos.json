@@ -1,0 +1,83 @@
+{
+    "churro-diferenciador": [
+        {
+            "nombre": "Cheese Churro",
+            "descripcion": "Delicioso churro relleno con queso y cubierto con azúcar.",
+            "img": "assets/img/cheesechurro.png"
+        },
+        {
+            "nombre": "Churro Eclair",
+            "descripcion": "Masa dorada espolvoreada con azúcar glass, rellena de abundante crema batida y rodajas de fresas. ¡Un bocado doblemente irresistible!",
+            "img": "assets/img/churro-eclair.webp"
+        },
+        {
+            "nombre": "Cheesecake Churro",
+            "descripcion": "Churro inspirado en el clásico cheesecake, con relleno cremoso y topping de frutos rojos.",
+            "img": "assets/img/chesscake-churro.png"
+        },
+        {
+            "nombre": "Churro Misu",
+            "descripcion": "Nuestra versión del tiramisú en churro.",
+            "img": "assets/img/churro-misu.png"
+        },
+        {
+            "nombre": "Churro Pops",
+            "descripcion": "Pequeños churros en formato pop, perfectos para compartir o disfrutar en cualquier momento.",
+            "img": "assets/img/churro-pops.png"
+        },
+        {
+            "nombre": "Churro Pops Rellenos",
+            "descripcion": "Churro pops rellenos con chocolate.",
+            "img": "assets/img/churropops-rellenos.png"
+        }
+    ],
+    "churro-tradicional": [
+        {
+            "nombre": "Churro Tradicional",
+            "descripcion": "El clásico churro crujiente por fuera y suave por dentro, espolvoreado con azúcar.",
+            "img": "assets/img/churro-tradicional.jpg"
+        },
+        {
+            "nombre": "Churro Relleno",
+            "descripcion": "Churro tradicional relleno con manjar, chocolate o crema pastelera.",
+            "img": "assets/img/relleno.png"
+        }
+    ],
+    "bebestibles": [
+        {
+            "nombre": "Café Espresso",
+            "descripcion": "Café espresso intenso y aromático, preparado con granos seleccionados.",
+            "img": "assets/img/espresso.png"
+        },
+        {
+            "nombre": "Café Americano",
+            "descripcion": "Espresso suave con agua caliente, ideal para acompañar tus churros.",
+            "img": "assets/img/americano.png"
+        },
+        {
+            "nombre": "Café Latte",
+            "descripcion": "Espresso con leche vaporizada y una suave capa de espuma.",
+            "img": "assets/img/latte.png"
+        },
+        {
+            "nombre": "Cappuccino",
+            "descripcion": "Espresso con leche vaporizada y generosa espuma de leche.",
+            "img": "assets/img/capuccino.png"
+        },
+        {
+            "nombre": "Café Moka",
+            "descripcion": "Espresso con chocolate, leche vaporizada y crema batida.",
+            "img": "assets/img/moka.png"
+        },
+        {
+            "nombre": "Café Cortado",
+            "descripcion": "Espresso con un toque de leche caliente.",
+            "img": "assets/img/cortado.png"
+        },
+        {
+            "nombre": "Café Frappé",
+            "descripcion": "Café frío batido con hielo, perfecto para días calurosos.",
+            "img": "assets/img/frappe.png"
+        }
+    ]
+}

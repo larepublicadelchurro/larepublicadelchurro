@@ -1,0 +1,26 @@
+{
+    "historia": "La República del Churro surge como una iniciativa de cuatro amigos unidos por su motivación y pasión por la gastronomía. Inspirados en el churro como un producto tradicional y emblemático en Chile, los fundadores decidieron darle un nuevo enfoque al incorporar a esta preparación elementos de la pastelería europea.",
+    "mision": "Nuestra misión consiste en brindar al cliente un producto tradicional y valorado por los chilenos, ofreciendo elementos diferenciadores que nos conviertan en una alternativa única en la comida al paso.",
+    "vision": "Nuestra visión es consolidarnos como una cadena de comida rápida especializada en churros, logrando presencia en la Región Metropolitana y fuera de ella, entregando constantemente un servicio de calidad y productos elaborados acorde a las necesidades de nuestros clientes.",
+    "valores": [
+        {
+            "valores_intro": "Nuestros valores son los principios esenciales que guían nuestra República:"
+        },
+        {
+            "nombre": "Innovación",
+            "descripcion": "Estamos en constante búsqueda de nuevas ideas, sabores y presentaciones para diferenciarnos y destacarnos en el mercado actual."
+        },
+        {
+            "nombre": "Calidad",
+            "descripcion": "Garantizamos la excelencia mediante el uso de materias primas de alta calidad y procesos de inocuidad controlados que nos distinguen de otros locales de comida al paso."
+        },
+        {
+            "nombre": "Trabajo en Equipo",
+            "descripcion": "Promovemos que nuestros colaboradores trabajen cohesionados, como un solo engranaje, asegurando eficiencia y control en todos los procesos de la empresa."
+        },
+        {
+            "nombre": "Confianza",
+            "descripcion": "Es el pilar para un funcionamiento armonioso y eficiente. Fortalece la relación con nuestros clientes, generando vínculos basados en el compromiso y profesionalismo."
+        }
+    ]
+}
