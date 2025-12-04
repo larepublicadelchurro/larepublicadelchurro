@@ -39,7 +39,7 @@
         },
         {
             "nombre": "Churro Relleno",
-            "descripcion": "Churro tradicional relleno con manjar, ganache de chocolate, crema pastelera, Mermelada de frambuesa. ",
+            "descripcion": "Churro tradicional relleno con manjar, ganache de chocolate, crema pastelera o mermelada de frambuesa. ",
             "img": "assets/img/relleno.png"
         }
     ],
