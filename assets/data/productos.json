@@ -2,32 +2,32 @@
     "churro-diferenciador": [
         {
             "nombre": "Cheese Churro",
-            "descripcion": "Delicioso churro relleno con queso y cubierto con azúcar.",
+            "descripcion": "Masa de churro con interior de queso mozzarella.",
             "img": "assets/img/cheesechurro.png"
         },
         {
             "nombre": "Churro Eclair",
-            "descripcion": "Masa dorada espolvoreada con azúcar glass, rellena de abundante crema batida y rodajas de fresas. ¡Un bocado doblemente irresistible!",
+            "descripcion": "Masa de churro frita rellena de crema y frutillas frescas.",
             "img": "assets/img/churro-eclair.webp"
         },
         {
             "nombre": "Cheesecake Churro",
-            "descripcion": "Churro inspirado en el clásico cheesecake, con relleno cremoso y topping de frutos rojos.",
+            "descripcion": "Base de masa de churro con relleno de cheesecake.",
             "img": "assets/img/chesscake-churro.png"
         },
         {
             "nombre": "Churro Misu",
-            "descripcion": "Nuestra versión del tiramisú en churro.",
+            "descripcion": "Churros de café, con crema mascarpone espolvoreado suavemente con café en polvo.",
             "img": "assets/img/churro-misu.png"
         },
         {
             "nombre": "Churro Pops",
-            "descripcion": "Pequeños churros en formato pop, perfectos para compartir o disfrutar en cualquier momento.",
+            "descripcion": "Esferas pequeñas y esponjosas recubiertas de azúcar o canela.",
             "img": "assets/img/churro-pops.png"
         },
         {
-            "nombre": "Churro Pops Rellenos",
-            "descripcion": "Churro pops rellenos con chocolate.",
+            "nombre": "Churro Boom",
+            "descripcion": "Masa de churro que en su interior contiene chocolate.",
             "img": "assets/img/churropops-rellenos.png"
         }
     ],
@@ -39,25 +39,15 @@
         },
         {
             "nombre": "Churro Relleno",
-            "descripcion": "Churro tradicional relleno con manjar, chocolate o crema pastelera.",
+            "descripcion": "Churro tradicional relleno con manjar, ganache de chocolate, crema pastelera, Mermelada de frambuesa. ",
             "img": "assets/img/relleno.png"
         }
     ],
     "bebestibles": [
         {
-            "nombre": "Café Espresso",
-            "descripcion": "Café espresso intenso y aromático, preparado con granos seleccionados.",
-            "img": "assets/img/espresso.png"
-        },
-        {
             "nombre": "Café Americano",
             "descripcion": "Espresso suave con agua caliente, ideal para acompañar tus churros.",
             "img": "assets/img/americano.png"
-        },
-        {
-            "nombre": "Café Latte",
-            "descripcion": "Espresso con leche vaporizada y una suave capa de espuma.",
-            "img": "assets/img/latte.png"
         },
         {
             "nombre": "Cappuccino",
@@ -65,19 +55,9 @@
             "img": "assets/img/capuccino.png"
         },
         {
-            "nombre": "Café Moka",
-            "descripcion": "Espresso con chocolate, leche vaporizada y crema batida.",
-            "img": "assets/img/moka.png"
-        },
-        {
-            "nombre": "Café Cortado",
-            "descripcion": "Espresso con un toque de leche caliente.",
-            "img": "assets/img/cortado.png"
-        },
-        {
-            "nombre": "Café Frappé",
-            "descripcion": "Café frío batido con hielo, perfecto para días calurosos.",
-            "img": "assets/img/frappe.png"
+            "nombre": "Chocolate Caliente",
+            "descripcion": "Tradicional chocolate espeso y aromático, servido a la temperatura ideal.",
+            "img": "assets/img/chocolate.png"
         }
     ]
 }
