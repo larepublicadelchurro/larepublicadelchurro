@@ -50,6 +50,11 @@
             "img": "assets/img/americano.png"
         },
         {
+            "nombre": "Espresso",
+            "descripcion": "La esencia pura del café. Intenso, aromático y con una crema perfecta.",
+            "img": "assets/img/espresso.png"
+        },
+        {
             "nombre": "Cappuccino",
             "descripcion": "Espresso con leche vaporizada y generosa espuma de leche.",
             "img": "assets/img/capuccino.png"
